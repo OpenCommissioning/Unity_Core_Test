@@ -1,6 +1,8 @@
-name: Continuous Integration
+name: Release
 
-on: 
+on:
+  push:
+    branches: [master] 
   workflow_dispatch:
 
 jobs:   
