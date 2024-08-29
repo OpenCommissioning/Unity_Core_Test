@@ -5,6 +5,15 @@
 
 * feature 1 ([0ed18ee](https://github.com/onoff-engineering/unity_core/commit/0ed18eeb4d5648a328c0c75051cd83aa7dd06bca))
 * init commit ([15d5dd8](https://github.com/onoff-engineering/unity_core/commit/15d5dd8ef003b26e9786c1164359d1b519d8570c))
+* upm tag ([e080de3](https://github.com/onoff-engineering/unity_core/commit/e080de37e48a710d4b6ce30d167d98682426b579))
+
+# 1.0.0 (2024-08-29)
+
+
+### Bug Fixes
+
+* feature 1 ([0ed18ee](https://github.com/onoff-engineering/unity_core/commit/0ed18eeb4d5648a328c0c75051cd83aa7dd06bca))
+* init commit ([15d5dd8](https://github.com/onoff-engineering/unity_core/commit/15d5dd8ef003b26e9786c1164359d1b519d8570c))
 
 # 1.0.0 (2024-08-29)
 
