@@ -1,3 +1,10 @@
+# 1.0.0 (2024-08-29)
+
+
+### Bug Fixes
+
+* init commit ([15d5dd8](https://github.com/onoff-engineering/unity_core/commit/15d5dd8ef003b26e9786c1164359d1b519d8570c))
+
 # 1.0.0 (2024-08-28)
 
 
