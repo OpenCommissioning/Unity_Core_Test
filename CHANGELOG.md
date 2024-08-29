@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/OpenCommissioning/Unity_Core_Test/compare/v1.2.1...v1.2.2) (2024-08-29)
+
+
+### Bug Fixes
+
+* feature 4.1 ([10d55f3](https://github.com/OpenCommissioning/Unity_Core_Test/commit/10d55f391ca7b3b4a1cd925113f160ff641a8426))
+
 ## [1.2.1](https://github.com/OpenCommissioning/Unity_Core_Test/compare/v1.2.0...v1.2.1) (2024-08-29)
 
 
