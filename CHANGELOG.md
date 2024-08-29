@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/OpenCommissioning/Unity_Core_Test/compare/v1.2.0...v1.2.1) (2024-08-29)
+
+
+### Bug Fixes
+
+* release trigger ([26b265d](https://github.com/OpenCommissioning/Unity_Core_Test/commit/26b265de4afd25894281fe6d9d69564871f87473))
+
 # [1.2.0](https://github.com/onoff-engineering/unity_core/compare/v1.1.0...v1.2.0) (2024-08-29)
 
 
