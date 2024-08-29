@@ -1,0 +1,15 @@
+{
+  "name": "com.open-commissioning.core",
+  "version": "1.0.0",
+  "displayName": "Open Commissioning",
+  "description": "Open source framework for virtual commissioning",
+  "unity": "2022.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "author": {
+    "name": "SpiraTec AG",
+    "email": "opencommissioning@spiratec.com",
+    "url": "https://www.spiratec.com/de/kontakt/"
+  }
+}
