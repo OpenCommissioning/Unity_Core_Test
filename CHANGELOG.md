@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/onoff-engineering/unity_core/compare/v1.0.0...v1.0.1) (2024-08-29)
+
+
+### Bug Fixes
+
+* feature 2 ([ed5b260](https://github.com/onoff-engineering/unity_core/commit/ed5b26022b9988190dc3980548b9bb37deade38d))
+
 # 1.0.0 (2024-08-29)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "com.open-commissioning.core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Open Commissioning",
   "description": "Open source framework for virtual commissioning",
   "unity": "2022.3",
