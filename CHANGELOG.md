@@ -1,3 +1,78 @@
+## [1.2.3](https://github.com/OpenCommissioning/Unity_Core_Test/compare/v1.2.2...v1.2.3) (2024-08-30)
+
+
+### Bug Fixes
+
+* feature 4.2 ([2c8fda2](https://github.com/OpenCommissioning/Unity_Core_Test/commit/2c8fda2e59128c2b54b75a78a054d210a30f7509))
+
+## [1.2.2](https://github.com/OpenCommissioning/Unity_Core_Test/compare/v1.2.1...v1.2.2) (2024-08-29)
+
+
+### Bug Fixes
+
+* feature 4.1 ([10d55f3](https://github.com/OpenCommissioning/Unity_Core_Test/commit/10d55f391ca7b3b4a1cd925113f160ff641a8426))
+
+## [1.2.1](https://github.com/OpenCommissioning/Unity_Core_Test/compare/v1.2.0...v1.2.1) (2024-08-29)
+
+
+### Bug Fixes
+
+* release trigger ([26b265d](https://github.com/OpenCommissioning/Unity_Core_Test/commit/26b265de4afd25894281fe6d9d69564871f87473))
+
+# [1.2.0](https://github.com/onoff-engineering/unity_core/compare/v1.1.0...v1.2.0) (2024-08-29)
+
+
+### Features
+
+* feature 3 done ([202df4a](https://github.com/onoff-engineering/unity_core/commit/202df4a5e4eff6e32b55d4ada34abc2574e7002b))
+
+# [1.1.0](https://github.com/onoff-engineering/unity_core/compare/v1.0.1...v1.1.0) (2024-08-29)
+
+
+### Features
+
+* feature 2 done ([10cfaf1](https://github.com/onoff-engineering/unity_core/commit/10cfaf1231f02b71a1264fbdb0097823975db1fc))
+
+## [1.0.1](https://github.com/onoff-engineering/unity_core/compare/v1.0.0...v1.0.1) (2024-08-29)
+
+
+### Bug Fixes
+
+* feature 2 ([ed5b260](https://github.com/onoff-engineering/unity_core/commit/ed5b26022b9988190dc3980548b9bb37deade38d))
+
+# 1.0.0 (2024-08-29)
+
+
+### Bug Fixes
+
+* feature 1 ([0ed18ee](https://github.com/onoff-engineering/unity_core/commit/0ed18eeb4d5648a328c0c75051cd83aa7dd06bca))
+* init commit ([15d5dd8](https://github.com/onoff-engineering/unity_core/commit/15d5dd8ef003b26e9786c1164359d1b519d8570c))
+* upm tag ([e080de3](https://github.com/onoff-engineering/unity_core/commit/e080de37e48a710d4b6ce30d167d98682426b579))
+
+# 1.0.0 (2024-08-29)
+
+
+### Bug Fixes
+
+* feature 1 ([0ed18ee](https://github.com/onoff-engineering/unity_core/commit/0ed18eeb4d5648a328c0c75051cd83aa7dd06bca))
+* init commit ([15d5dd8](https://github.com/onoff-engineering/unity_core/commit/15d5dd8ef003b26e9786c1164359d1b519d8570c))
+
+# 1.0.0 (2024-08-29)
+
+
+### Bug Fixes
+
+* feature 1 ([0ed18ee](https://github.com/onoff-engineering/unity_core/commit/0ed18eeb4d5648a328c0c75051cd83aa7dd06bca))
+* init commit ([15d5dd8](https://github.com/onoff-engineering/unity_core/commit/15d5dd8ef003b26e9786c1164359d1b519d8570c))
+
+# 1.0.0 (2024-08-29)
+
+
+### Bug Fixes
+
+* feature 1 ([0ed18ee](https://github.com/onoff-engineering/unity_core/commit/0ed18eeb4d5648a328c0c75051cd83aa7dd06bca))
+* init commit ([15d5dd8](https://github.com/onoff-engineering/unity_core/commit/15d5dd8ef003b26e9786c1164359d1b519d8570c))
+
 # 1.0.0 (2024-08-29)
 
 
